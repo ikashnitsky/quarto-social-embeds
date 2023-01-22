@@ -15,7 +15,7 @@ Currently includes shortcodes for the following:
 Install the extension with:
 
 ``` bash
-quarto install extension sellorm/quarto-social-embeds
+quatro install extension sellorm/quarto-social-embeds
 ```
 
 ## Usage
